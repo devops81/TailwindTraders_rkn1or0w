@@ -2,7 +2,7 @@
 
 ![Mobile Apps](Documents/Images/Mobile.png)
 
-[![Build status](https://dev.azure.com/TailwindTraders/Mobile/_apis/build/status/Mobile-CI)](https://dev.azure.com/TailwindTraders/Mobile/_build/latest?definitionId=29)
+[![Build status](https://dev.azure.com/TailwindTraders/Mobile/_apis/build/status/Mobile-CI)](https://dev.azure.com/ailwindTraders/Mobile/_build/latest?definitionId=29)
 
 > Note: This app uses backend services detailed in the [Backend](https://github.com/Microsoft/TailwindTraders-Backend) repository.
 
